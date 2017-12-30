@@ -35,7 +35,7 @@ The program contains the following classes and methods as described below -
 1. class Huffman - Basically acts as an interface for calling the encoder methods and passing the code table to encoder class.
 
 
-# To Run:
-javac encoder.java decoder.java
-java encoder.java input_file.txt
-java decoder.java encoded.bin code_table.txt
+## To Run:
+* javac encoder.java decoder.java
+* java encoder.java input_file.txt
+* java decoder.java encoded.bin code_table.txt
